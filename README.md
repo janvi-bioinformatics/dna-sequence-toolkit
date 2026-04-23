@@ -19,7 +19,7 @@ This project provides multiple utilities for working with DNA, including transcr
 ## 💻 How to Run
 
 1. Download or clone this repository:
-git clone https://github.com/yourusername/dna-sequence-toolkit.git⁠�
+git clone https://github.com/janvi-bioinformatics/dna-sequence-toolkit.git⁠�
 
 2. Open the project folder
 
